@@ -1,4 +1,4 @@
-# Walmart_sales Data Analysis
+# Walmart_Sales Data Analysis
 
 ## About
 
